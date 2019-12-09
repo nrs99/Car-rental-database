@@ -1,2 +1,8 @@
-# Car-rental-database
-Command line interface that is connected to an oracle database for a cheap car rental service. Implemented an interface for customer and staff view for car rentals.
+Nicholas Silva
+CSE 241 Final Project
+
+
+Commands to execute: 
+javac Database.java Helpers.java
+jar cfmv nrs221.jar Manifest.txt Database.class Helpers.class
+java -jar nrs221.jar

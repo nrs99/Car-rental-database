@@ -1,0 +1,2 @@
+Main-class: Database
+Class-Path: ojdbc7.jar
